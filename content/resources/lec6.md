@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/57fb8bd5b6d291ec7eda1bc1c920a403_lec6.pdf
+file: /courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/57fb8bd5b6d291ec7eda1bc1c920a403_lec6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

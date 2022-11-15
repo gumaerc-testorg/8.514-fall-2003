@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides selected lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ LECTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Coherent States ([PDF]({{< baseurl >}}/resources/lec1))
+Coherent States ({{% resource_link 9761fe46-aa9e-26de-9382-88fd0efebfe6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Coherent States ([PDF]({{< baseurl >}}/resources/lec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Squeezed States ([PDF]({{< baseurl >}}/resources/lec2))
+Squeezed States ({{% resource_link 706c870d-8995-d479-9efc-26a2e210e5ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Squeezed States ([PDF]({{< baseurl >}}/resources/lec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Second Quantization ([PDF]({{< baseurl >}}/resources/lec3))
+Second Quantization ({{% resource_link 7405f06d-feb1-2dca-e545-466b385fd4ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Second Quantization ([PDF]({{< baseurl >}}/resources/lec3))
 4, 5
 {{< tdclose >}}
 {{< tdopen >}}
-Bose Condensation ([PDF]({{< baseurl >}}/resources/lec45))
+Bose Condensation ({{% resource_link 59d41060-e232-d13d-3da7-29e329a15c73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Bose Condensation ([PDF]({{< baseurl >}}/resources/lec45))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Superfluidity, Vortices, Finite Temperature Effects ([PDF]({{< baseurl >}}/resources/lec6))
+Superfluidity, Vortices, Finite Temperature Effects ({{% resource_link 57fb8bd5-b6d2-91ec-7eda-1bc1c920a403 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/259854f307794376b6ac3d2c3fce0835_ps1.pdf
+file_size: 98511
 file_type: application/pdf
 learning_resource_types:
 - Assignments

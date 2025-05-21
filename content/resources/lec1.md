@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/9761fe46aa9e26de938288fd0efebfe6_lec1.pdf
+file: /courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/9761fe46aa9e26de938288fd0efebfe6_lec1.pdf
 file_size: 217448
 file_type: application/pdf
 learning_resource_types:
